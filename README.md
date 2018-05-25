@@ -8,5 +8,5 @@ It uses the "singletons-\*.json" supporting files in order to ouput valid NDC me
 
 Usage:
 ```
-node json2xml.js inputFile.json outputFile.xml
+node xml2json.js inputFile.xml outputFile.json
 ```
