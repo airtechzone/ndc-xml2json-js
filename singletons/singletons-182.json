@@ -3586,8 +3586,8 @@
  "IATA_AirDocIssueRQ/Request/Pax/Remark/DisplayInd/",
  "IATA_AirDocIssueRQ/Request/Pax/Remark/RemarkText/",
  "IATA_AirDocIssueRQ/Request/Pax/Remark/Timestamp/",
- "IATA_AirDocIssueRQ/Request/Pax/ResidenceCountryCode/"]
-["IATA_AirDocNotifRQ/",
+ "IATA_AirDocIssueRQ/Request/Pax/ResidenceCountryCode/",
+ "IATA_AirDocNotifRQ/",
  "IATA_AirDocNotifRQ/AugmentationPoint/",
  "IATA_AirDocNotifRQ/DocNotification/",
  "IATA_AirDocNotifRQ/DocNotification/Coupon/CouponNumber/",
@@ -29050,8 +29050,8 @@
  "IATA_OrderRetrieveRQ/Request/OrderRetrieveParameters/MarketingMessage/Desc/MediaObject/RenderingOutputFormatText/",
  "IATA_OrderRetrieveRQ/Request/OrderRetrieveParameters/MarketingMessage/Desc/MediaObject/RenderingOverviewText/",
  "IATA_OrderRetrieveRQ/Request/OrderRetrieveParameters/MarketingMessage/Desc/MediaObject/WidthMeasure/",
- "IATA_OrderRetrieveRQ/Request/OrderRetrieveParameters/MarketingMessage/Desc/URL/"]
-["IATA_OrderRulesRQ/",
+ "IATA_OrderRetrieveRQ/Request/OrderRetrieveParameters/MarketingMessage/Desc/URL/",
+ "IATA_OrderRulesRQ/",
  "IATA_OrderRulesRQ/AugmentationPoint/",
  "IATA_OrderRulesRQ/MessageDoc/",
  "IATA_OrderRulesRQ/MessageDoc/Name/",
